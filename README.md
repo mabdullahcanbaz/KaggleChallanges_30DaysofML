@@ -8,3 +8,5 @@
  Day #2 - Hello, Python - Python Syntax, Variables, and Numbers
 
  Day #3 - Python - Functions and Getting Help
+ 
+ Day #4 - Python - Booleans and Conditionals
