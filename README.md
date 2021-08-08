@@ -10,3 +10,10 @@
  Day #3 - Python - Functions and Getting Help
  
  Day #4 - Python - Booleans and Conditionals
+ 
+ Day #5 - Python - Loops and Lists
+
+ Day #6 - Python - Strings and Dictionaries
+ 
+ Day #7 - Python - Working with External Libraries
+
