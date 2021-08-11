@@ -17,3 +17,6 @@
  
  Day #7 - Python - Working with External Libraries
 
+ Day #8 - Intro to ML - How Models Work
+
+ Day #9 - Intro to ML - Your First ML Model and Model Validation
