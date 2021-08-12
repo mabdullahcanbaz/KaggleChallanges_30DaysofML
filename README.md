@@ -20,3 +20,7 @@
  Day #8 - Intro to ML - How Models Work
 
  Day #9 - Intro to ML - Your First ML Model and Model Validation
+
+ Day #10 - Underfitting and Overfitting, Random Forest Model, Kaggle House Prices Competition Exercise
+
+
